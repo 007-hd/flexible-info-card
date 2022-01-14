@@ -43,7 +43,7 @@ hgroup {
   width: 16em;
 }
 
-h2, h4 {
+h3, h4 {
   margin: 0;
 }
 
@@ -55,6 +55,6 @@ p {
 a {
   background-color: #444;
   color: white;
-  text-decoration: ;
-  padding: .5rem 1rem .6rem
+  text-decoration: none;
+  padding: .5rem 1rem .6rem;
 }
